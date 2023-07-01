@@ -1,6 +1,6 @@
 # Sharpness-Aware Minimization Alone can Improve Adversarial Robustness
 ## ICML 2023 AdvML-Frontiers Workshop
-[Zeming Wei](weizeming.github.io)${}^\dagger$\*, Jingyu Zhu\* and [Yihao Zhang](https://zhang-yihao.github.io/)\*
+[Zeming Wei](https://weizeming.github.io)${}^\dagger$\*, Jingyu Zhu\* and [Yihao Zhang](https://zhang-yihao.github.io/)\*
 
 ## Citation
 ```
