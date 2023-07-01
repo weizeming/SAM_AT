@@ -6,7 +6,7 @@
 ```
 @InProceedings{wei2023sharpness,
     author    = {Wei, Zeming and Zhu, Jingyu and Zhang, Yihao},
-    title     = {CFA: Class-Wise Calibrated Fair Adversarial Training},
+    title     = {Sharpness-Aware Minimization Alone can Improve Adversarial Robustness},
     booktitle = {ICML Workshop},
     year      = {2023}
 }
