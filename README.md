@@ -1,14 +1,13 @@
-# On the Relation between Sharpness-Aware Minimization and Adversarial Robustness
-Zeming Wei, Jingyu Zhu and Yihao Zhang
+# Sharpness-Aware Minimization Alone can Improve Adversarial Robustness
+## ICML 2023 AdvML-Frontiers Workshop
+[Zeming Wei*${}^\dagger$](weizeming.github.io), Jingyu Zhu* and [Yihao Zhang*](https://zhang-yihao.github.io/)
 
 ## Citation
 ```
-@misc{wei2023relation,
-      title={On the Relation between Sharpness-Aware Minimization and Adversarial Robustness}, 
-      author={Zeming Wei and Jingyu Zhu and Yihao Zhang},
-      year={2023},
-      eprint={2305.05392},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@InProceedings{wei2023sharpness,
+    author    = {Wei, Zeming and Zhu, Jingyu and Zhang, Yihao},
+    title     = {CFA: Class-Wise Calibrated Fair Adversarial Training},
+    booktitle = {ICML Workshop},
+    year      = {2023}
 }
 ```
