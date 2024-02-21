@@ -1,5 +1,9 @@
-# Sharpness-Aware Minimization Alone can Improve Adversarial Robustness
-## ICML 2023 AdvML-Frontiers Workshop
+# On the Duality Between Sharpness-Aware Minimization and Adversarial Training
+Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, Zeming Wei${}^\dagger$
+
+## Workshop version
+## Sharpness-Aware Minimization Alone can Improve Adversarial Robustness
+### ICML 2023 AdvML-Frontiers Workshop
 [Zeming Wei](https://weizeming.github.io)${}^\dagger$\*, Jingyu Zhu\* and [Yihao Zhang](https://zhang-yihao.github.io/)\*
 
 ## Citation
