@@ -1,5 +1,5 @@
 # On the Duality Between Sharpness-Aware Minimization and Adversarial Training
-Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, Zeming Wei${}^\dagger$
+Yihao Zhang\*, Hangzhou He\*, Jingyu Zhu\*, Huanran Chen, Yifei Wang, Zeming Wei ${}^\dagger$
 
 ## Workshop version
 ## Sharpness-Aware Minimization Alone can Improve Adversarial Robustness
